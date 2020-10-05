@@ -1,4 +1,4 @@
-## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
   <img align="right" alt="GIF" src="https://github.com/c0sm0void/c0sm0void/blob/main/code.gif" width="500" height="320" />
   
@@ -27,9 +27,9 @@ Hi, I'm [Minhajul](https://www.linkedin.com/in/minhajulhossain/) @c0sm0void
 **Talking about Personal Stuffs:**
 
 - 💬 Ask me about anything, I am happy to help;
-- 📝[Resume]()
+- 
 
-## 🔧 Technologies & Tools
+# 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
