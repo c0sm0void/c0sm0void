@@ -1,9 +1,8 @@
 ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<br />
-  <img align="right" alt="GIF" src="https://github.com/c0sm0void/c0sm0void/blob/main/code.gif" width="400" height="220" />
-
-Hi, I'm [Minhajul](https://www.linkedin.com/in/minhajulhossain/)
+  <img align="right" alt="GIF" src="https://github.com/c0sm0void/c0sm0void/blob/main/code.gif" width="500" height="320" />
+  
+Hi, I'm [Minhajul](https://www.linkedin.com/in/minhajulhossain/) @c0sm0void
 
 <br />
 
