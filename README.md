@@ -28,8 +28,7 @@ Hi, I'm @c0sm0s @c0sm0void @c0sm0s0
 ![](https://visitor-badge.glitch.me/badge?page_id=c0sm0void.c0sm0void)
 
 **miscellaneous:**
-- 💬 Ask me about anything, I am happy to help;
-- 
+- 💬 Ask me about anything, I am happy to help
 
 ## Tech
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
