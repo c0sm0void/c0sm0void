@@ -28,7 +28,7 @@ Hi, I'm [Minhajul](https://www.linkedin.com/in/minhajulhossain/)
 - 📝[Resume]()
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Kali-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=c0sm0void&show_icons=true&theme=gotham" alt="c0sm0void" />
