@@ -27,17 +27,14 @@ Hi, I'm @c0sm0s @c0sm0void @c0sm0s0
 
 ![](https://visitor-badge.glitch.me/badge?page_id=c0sm0void.c0sm0void)
 
-
 **miscellaneous:**
 - 💬 Ask me about anything, I am happy to help;
 - 
 
-# 🔧 Technologies & Tools
+## Tech
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
+## Stats
+<img align="left" alt="GIF" src="https://github.com/c0sm0void/c0sm0void/blob/main/script.gif" width="400" height="220" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=c0sm0void&show_icons=true&theme=gotham" alt="c0sm0void" />
-
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0sm0void&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
