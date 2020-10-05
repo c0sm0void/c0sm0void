@@ -18,19 +18,13 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=c0sm0void.c0sm0void)
 
 <br />
+  <img align="right" alt="GIF" src="https://github.com/c0sm0void/c0sm0void/blob/main/code.gif" width="400" height="220" />
 
 Hi, I'm [Minhajul](https://www.linkedin.com/in/minhajulhossain/)
 
-  <img align="right" alt="GIF" src="https://github.com/c0sm0void/c0sm0void/blob/main/code.gif" width="500" height="320" />
-  
 **Talking about Personal Stuffs:**
 
 - 💬 Ask me about anything, I am happy to help;
 - 📝[Resume]()
 
-<details>
-<summary>📈 My GitHub Stats</summary>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=c0sm0void&show_icons=true&theme=gotham" alt="c0sm0void" />
-
-</details>
