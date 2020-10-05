@@ -36,5 +36,5 @@ Hi, I'm @c0sm0s @c0sm0void @c0sm0s0
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 ## Stats
-<img align="left" alt="GIF" src="https://github.com/c0sm0void/c0sm0void/blob/main/script.gif" width="400" height="220" />
-<align="right"> <img src="https://github-readme-stats.vercel.app/api?username=c0sm0void&show_icons=true&theme=gotham" alt="c0sm0void" />
+<img align="left" alt="GIF" src="https://github.com/c0sm0void/c0sm0void/blob/main/script.gif" width="200" height="200" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=c0sm0void&show_icons=true&theme=gotham" alt="c0sm0void" />
