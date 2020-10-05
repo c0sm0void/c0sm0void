@@ -8,25 +8,25 @@ Hi, I'm @c0sm0s @c0sm0void @c0sm0s0
 <a href="https://discord.gg/mQ5XJme">
   <img align="left" alt="@c0sm0s's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<br />
+
 <a href="https://twitter.com/c0sm0s0">
   <img align="left" alt="@c0sm0s's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<br />
+
 <a href="https://www.linkedin.com/in/minhajulhossain/">
   <img align="left" alt="@c0sm0s's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br />
+
 <a href="https://t.me/c0sm0s0">
   <img align="left" alt="@c0sm0s's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<br />
+
 <a href="https://www.instagram.com/hackriter/">
   <img align="left" alt="@c0sm0s's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<br />
+
 ![](https://visitor-badge.glitch.me/badge?page_id=c0sm0void.c0sm0void)
-<br />
+
 
 **miscellaneous:**
 - 💬 Ask me about anything, I am happy to help;
