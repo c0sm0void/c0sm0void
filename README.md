@@ -24,18 +24,18 @@ Hi, I'm @c0sm0s @c0sm0void @c0sm0s0
 - will add more (not finished yet)🥺
 
 ## Tech⚙️
-![](https://img.shields.io/badge/🖥️-Kali-informational?style=flat&logo=debian&logoColor=white&color=red)
-![](https://img.shields.io/badge/os-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
-![](https://img.shields.io/badge/os-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
+![](https://img.shields.io/badge/:-Kali-informational?style=flat&logo=debian&logoColor=white&color=red)
+![](https://img.shields.io/badge/:-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
+![](https://img.shields.io/badge/:-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/--informational?style=flat&logo=c&logoColor=white&color=A8B9CC)
 ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=66595C)
 ![](https://badgen.net/badge/icon/azure?icon=azure&label)
-![](https://img.shields.io/badge/-Pexels-informational?style=flat&logo=pexels&logoColor=white&color=05A081)
-![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
-![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/-GoogleAssistant-informational?style=flat&logo=google&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/-GoogleCloud-informational?style=flat&logo=icloud&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/:-Pexels-informational?style=flat&logo=pexels&logoColor=white&color=05A081)
+![](https://img.shields.io/badge/:-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
+![](https://img.shields.io/badge/:-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/:-GoogleAssistant-informational?style=flat&logo=google&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/:-GoogleCloud-informational?style=flat&logo=icloud&logoColor=white&color=4285F4)
 
 
 
