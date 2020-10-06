@@ -24,16 +24,14 @@ Hi, I'm @c0sm0s @c0sm0void @c0sm0s0
 - will add more (not finished yet)🥺
 
 ## Tech⚙️
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/OS-Kali-informational?style=flat&logo=debian&logoColor=white&color=red)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
-![](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=brightgreen)
-![](https://badgen.net/badge/icon/git?icon=git&label)
-![](https://badgen.net/badge/icon/github?icon=github&label)
-![](https://badgen.net/badge/icon/terminal?icon=terminal&label)
+![](https://img.shields.io/badge/informational?style=flat&logo=c&logoColor=white&color=A8B9CC)
+![](https://img.shields.io/badge/informational?style=flat&logo=cplusplus&logoColor=white&color=00599C)
+![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=66595C)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=0089D6)
+
 
 
 
