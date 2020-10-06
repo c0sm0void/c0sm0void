@@ -5,18 +5,17 @@
 Hi, I'm @c0sm0s @c0sm0void @c0sm0s0
 
 <br />
-<a href="https://discord.gg/mQ5XJme">
-  <img align="left" alt="@c0sm0s's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<a href="https://t.me/c0sm0s0">
+  <img align="left" alt="@c0sm0s's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/minhajulhossain/">
   <img align="left" alt="@c0sm0s's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://t.me/c0sm0s0">
-  <img align="left" alt="@c0sm0s's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://discord.gg/mQ5XJme">
+  <img align="left" alt="@c0sm0s's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-
 
 ![](https://visitor-badge.glitch.me/badge?page_id=c0sm0void.c0sm0void)
 
