@@ -19,8 +19,6 @@ Hi, I'm @c0sm0s @c0sm0void @c0sm0s0
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=c0sm0void.c0sm0void)
-![](https://img.shields.io/github/languages/top/badges/shields.svg)
-![](https://img.shields.io/github/languages/count/badges/shields.svg)
 
 **miscellaneous:😂**
 - 💬 Ask me about anything, I am happy to help 
@@ -29,6 +27,11 @@ Hi, I'm @c0sm0s @c0sm0void @c0sm0s0
 ## Tech⚙️
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-
+![](https://badgen.net/badge/icon/atom?icon=atom&label)
+![]()
+![]()
+![]()
+![]()
+![]()
 ## Stats📊
 <img alt="GIF" src="https://github.com/c0sm0void/c0sm0void/blob/main/script.gif" width="180" height="195"><img src="https://github-readme-stats.vercel.app/api?username=c0sm0void&show_icons=true&theme=gotham" alt="c0sm0void">
