@@ -27,7 +27,7 @@ Hi, I'm @c0sm0void 🌌 (earlier @minnonymous & @c0sm0s)🍀
 ![](https://img.shields.io/badge/:-Kali-informational?style=flat&logo=debian&logoColor=white&color=red)
 ![](https://img.shields.io/badge/:-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/:-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
-![](https://img.shields.io/badge/:-Penetration-Testing-informational?style=flat&logo=hackaday&logoColor=white&color=1A1A1A)
+![](https://img.shields.io/badge/:-PenetrationTesting-informational?style=flat&logo=hackaday&logoColor=white&color=1A1A1A)
 ![](https://img.shields.io/badge/:-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/:-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Bot:-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=2CA5E0)
@@ -40,8 +40,8 @@ Hi, I'm @c0sm0void 🌌 (earlier @minnonymous & @c0sm0s)🍀
 ![](https://img.shields.io/badge/:-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/:-pypi-informational?style=flat&logo=pypi&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/-Pexels-informational?style=flat&logo=pexels&logoColor=white&color=05A081)
-![](https://img.shields.io/badge/:-Google Assistant-informational?style=flat&logo=google&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/:-Google Cloud-informational?style=flat&logo=icloud&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/:-GoogleAssistant-informational?style=flat&logo=google&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/:-GoogleCloud-informational?style=flat&logo=icloud&logoColor=white&color=4285F4)
 
 ## Leveling up!📊
 <img alt="GIF" src="https://github.com/c0sm0void/c0sm0void/blob/main/script.gif" width="180" height="195"><img src="https://github-readme-stats.vercel.app/api?username=c0sm0void&show_icons=true&theme=gotham" alt="c0sm0void">
