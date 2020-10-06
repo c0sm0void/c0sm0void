@@ -1,4 +1,4 @@
-# Hello User!🐱‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello Human!🐱‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="right" alt="GIF" src="https://github.com/c0sm0void/c0sm0void/blob/main/dedsec.gif" width="400" height="220" />
   
