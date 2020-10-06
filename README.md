@@ -35,7 +35,7 @@ Hi, I'm @c0sm0s @c0sm0void @c0sm0s0
 ![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Google-Assistant-informational?style=flat&logo=google&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=0089D6)
+![](https://img.shields.io/badge/Google-Cloud-informational?style=flat&logo=googlecloud&logoColor=white&color=4285F4)
 
 
 
