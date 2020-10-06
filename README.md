@@ -33,7 +33,7 @@ Hi, I'm @c0sm0s @c0sm0void @c0sm0s0
 ![](https://img.shields.io/badge/Editor:-Atom-informational?style=flat&logo=atom&logoColor=white&color=66595C)
 ![](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)
 ![](https://badgen.net/badge/icon/azure?icon=azure&label)
-![](https://img.shields.io/badge/:-Lightroom-informational?style=flat&logo=adobelightroomcc&logoColor=white&color=66595C)
+![](https://img.shields.io/badge/:-Lightroom-informational?style=flat&logo=adobe&logoColor=white&color=66595C)
 ![](https://img.shields.io/badge/--informational?style=flat&logo=c&logoColor=white&color=A8B9CC)
 ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/-Pexels-informational?style=flat&logo=pexels&logoColor=white&color=05A081)
