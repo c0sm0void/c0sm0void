@@ -1,6 +1,6 @@
 # Hello User!🐱‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="https://github.com/c0sm0void/c0sm0void/blob/main/omghack.gif" width="400" height="220" />
+<img align="right" alt="GIF" src="https://github.com/c0sm0void/c0sm0void/blob/main/giphy.gif" width="400" height="220" />
   
 Hi, I'm @c0sm0void 🌌 (earlier @minnonymous & @c0sm0s)🍀
 
