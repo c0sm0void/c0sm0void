@@ -27,7 +27,7 @@ Hi, I'm @c0sm0void 🌌 (earlier @minnonymous & @c0sm0s)🍀
 ![](https://img.shields.io/badge/:-Kali-informational?style=flat&logo=debian&logoColor=white&color=red)
 ![](https://img.shields.io/badge/:-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/:-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
-![](https://img.shields.io/badge/:-Penetration Testing-informational?style=flat&logo=hackaday&logoColor=white&color=1A1A1A)
+![](https://img.shields.io/badge/:-Penetration-Testing-informational?style=flat&logo=hackaday&logoColor=white&color=1A1A1A)
 ![](https://img.shields.io/badge/:-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/:-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Bot:-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=2CA5E0)
