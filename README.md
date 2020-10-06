@@ -25,7 +25,7 @@ Hi, I'm @c0sm0s @c0sm0void @c0sm0s0
 
 ## Tech⚙️
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://badgen.net/badge/icon/windows?icon=windows&label)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://badgen.net/badge/icon/atom?icon=atom&label)
 ![](https://badgen.net/badge/icon/azure?icon=azure&label)
