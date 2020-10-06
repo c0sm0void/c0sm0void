@@ -19,6 +19,8 @@ Hi, I'm @c0sm0s @c0sm0void @c0sm0s0
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=c0sm0void.c0sm0void)
+![](https://img.shields.io/github/contributors/cdnjs/cdnjs.svg)
+![](https://img.shields.io/github/languages/count/badges/shields.svg)
 
 **miscellaneous:😂**
 - 💬 Ask me about anything, I am happy to help 
