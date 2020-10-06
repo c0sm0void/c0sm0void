@@ -27,14 +27,14 @@ Hi, I'm @c0sm0s @c0sm0void @c0sm0s0
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Kali-informational?style=flat&logo=debian&logoColor=white&color=red)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
+![](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=brightgreen)
-![](https://badgen.net/badge/icon/atom?icon=atom&label)
-![](https://badgen.net/badge/icon/azure?icon=azure&label)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=brightgreen)
 ![](https://badgen.net/badge/icon/git?icon=git&label)
 ![](https://badgen.net/badge/icon/github?icon=github&label)
 ![](https://badgen.net/badge/icon/terminal?icon=terminal&label)
-![](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)
-![](https://badgen.net/badge/icon/awesome?icon=awesome&label)
+
 
 
 ## Stats📊
