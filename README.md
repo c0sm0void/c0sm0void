@@ -31,10 +31,11 @@ Hi, I'm @c0sm0s @c0sm0void @c0sm0s0
 ![](https://img.shields.io/badge/:-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Bot:-Telegram-informational?style=flat&logo=telegram&logoColor=white&color=2CA5E0)
 ![](https://img.shields.io/badge/Editor:-Atom-informational?style=flat&logo=atom&logoColor=white&color=66595C)
+![](https://img.shields.io/badge/Editor:-VisualStudioCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=5C2D91)
 ![](https://badgen.net/badge/icon/azure?icon=azure&label)
 ![](https://img.shields.io/badge/--informational?style=flat&logo=c&logoColor=white&color=A8B9CC)
 ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=00599C)
-![](https://img.shields.io/badge/:-Pexels-informational?style=flat&logo=pexels&logoColor=white&color=05A081)
+![](https://img.shields.io/badge/-Pexels-informational?style=flat&logo=pexels&logoColor=white&color=05A081)
 ![](https://img.shields.io/badge/:-GoogleAssistant-informational?style=flat&logo=google&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/:-GoogleCloud-informational?style=flat&logo=icloud&logoColor=white&color=4285F4)
 
