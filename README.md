@@ -23,7 +23,7 @@ Hi, I'm @c0sm0s @c0sm0void @c0sm0s0
 - 💬 Ask me about anything, I am happy to help 
 - will add more (not finished yet)🥺
 
-## Tech⚙️
+## Something I know🤔🛠️
 ![](https://img.shields.io/badge/:-Kali-informational?style=flat&logo=debian&logoColor=white&color=red)
 ![](https://img.shields.io/badge/:-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/:-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
@@ -43,5 +43,5 @@ Hi, I'm @c0sm0s @c0sm0void @c0sm0s0
 ![](https://img.shields.io/badge/:-GoogleAssistant-informational?style=flat&logo=google&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/:-GoogleCloud-informational?style=flat&logo=icloud&logoColor=white&color=4285F4)
 
-## Stats📊
+## Leveling up!📊
 <img alt="GIF" src="https://github.com/c0sm0void/c0sm0void/blob/main/script.gif" width="180" height="195"><img src="https://github-readme-stats.vercel.app/api?username=c0sm0void&show_icons=true&theme=gotham" alt="c0sm0void">
