@@ -24,9 +24,9 @@ Hi, I'm @c0sm0s @c0sm0void @c0sm0s0
 - will add more (not finished yet)🥺
 
 ## Tech⚙️
-![](https://img.shields.io/badge/OS-Kali-informational?style=flat&logo=debian&logoColor=white&color=red)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
+![](https://img.shields.io/badge/-Kali-informational?style=flat&logo=debian&logoColor=white&color=red)
+![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
+![](https://img.shields.io/badge/-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/--informational?style=flat&logo=c&logoColor=white&color=A8B9CC)
 ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=66595C)
