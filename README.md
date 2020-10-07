@@ -44,4 +44,4 @@ Hi, I'm @c0sm0void 🌌 (earlier @minnonymous & @c0sm0s)🍀
 ![](https://img.shields.io/badge/:-Lightroom-informational?style=flat&logo=adobe&logoColor=white&color=31A8FF)
 
 ## Leveling up!📊
-<img alt="GIF" src="https://github.com/c0sm0void/c0sm0void/blob/main/script.gif" width="200" height="195"><img src="https://github-readme-stats.vercel.app/api?username=c0sm0void&show_icons=true&theme=chartreuse-dark">
+<img alt="GIF" src="https://github.com/c0sm0void/c0sm0void/blob/main/script.gif" width="200" height="195">(https://github-readme-stats.vercel.app/api?username=c0sm0void&show_icons=true&theme=chartreuse-dark)
