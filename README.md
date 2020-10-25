@@ -5,7 +5,7 @@
 Hi, I'm @c0sm0void 🌌 (earlier @minnonymous & @c0sm0s)🍀
 
 <br />
-<a href="https://t.me/c0sm0s0">
+<a href="https://t.me/c0sm0void">
   <img align="left" alt="@c0sm0s's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
