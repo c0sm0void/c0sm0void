@@ -17,7 +17,7 @@ Hi, I'm @c0sm0void 🌌 (earlier @minnonymous & @c0sm0s)🍀
   <img align="left" alt="@c0sm0s's Pexels" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pexels.svg" />
 </a>
 
-<a href="https://www.instagram.com/hackriter/">
+<a href="https://linktr.ee/hackriter">
   <img align="left" alt="@c0sm0s's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
 
