@@ -21,7 +21,7 @@ Hi, I'm @c0sm0void 🌌 (earlier @minnonymous & @c0sm0s)🍀
   <img align="left" alt="@c0sm0s's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
 
-<a href="https://discord.gg/mQ5XJme">
+<a href="https://discord.gg/ESSDWKm2kc">
   <img align="left" alt="@c0sm0s's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 
