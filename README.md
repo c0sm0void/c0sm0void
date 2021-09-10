@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/c0sm0void/c0sm0void/blob/main/dedsec.gif" width="400" height="220" />
   
-Hi, I'm @c0sm0void 🌌 (earlier @minnonymous & @c0sm0s)🍀
+Hi, I'm @c0sm0void 🌌 (earlier @c0sm0s)🍀
 
 <br />
 <a href="https://t.me/c0sm0void">
@@ -21,7 +21,7 @@ Hi, I'm @c0sm0void 🌌 (earlier @minnonymous & @c0sm0s)🍀
   <img align="left" alt="@c0sm0s's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
 
-<a href="https://discord.gg/ESSDWKm2kc">
+<a href="https://discord.gg/NmuJu9eyhs">
   <img align="left" alt="@c0sm0s's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 
