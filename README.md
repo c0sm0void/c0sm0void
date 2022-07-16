@@ -13,16 +13,8 @@ Hi, I'm @c0sm0void 🌌 (earlier @c0sm0s)🍀
   <img align="left" alt="@c0sm0s's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.pexels.com/@1193174">
-  <img align="left" alt="@c0sm0s's Pexels" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pexels.svg" />
-</a>
-
 <a href="https://linktr.ee/hackriter">
   <img align="left" alt="@c0sm0s's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
-</a>
-
-<a href="https://discord.gg/NmuJu9eyhs">
-  <img align="left" alt="@c0sm0s's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 
 
