@@ -41,8 +41,6 @@ Hi, I'm @c0sm0void 🌌 (earlier @c0sm0s)🍀
 ![](https://img.shields.io/badge/:-GoogleAssistant-informational?style=flat&logo=google&logoColor=white&color=4285F4)
 ![](https://badgen.net/badge/icon/azure?icon=azure&label)
 ![](https://img.shields.io/badge/:-GoogleCloud-informational?style=flat&logo=icloud&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/-Pexels-informational?style=flat&logo=pexels&logoColor=white&color=05A081)
-![](https://img.shields.io/badge/:-Lightroom-informational?style=flat&logo=adobe&logoColor=white&color=31A8FF)
 
 ## Leveling up!📊
 <img alt="GIF" src="https://github.com/c0sm0void/c0sm0void/blob/main/script.gif" width="200" height="195">![](https://github-readme-stats.vercel.app/api?username=c0sm0void&show_icons=true&theme=chartreuse-dark)
