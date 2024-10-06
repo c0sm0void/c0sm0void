@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/c0sm0void/c0sm0void/blob/main/dedsec.gif" width="400" height="220" />
   
-Hi, I'm @c0sm0void 🌌 (earlier @c0sm0s)🍀
+Hi, I'm c0sm0s 🌌
 
 <br />
 <a href="https://t.me/c0sm0void">
