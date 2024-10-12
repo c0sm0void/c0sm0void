@@ -13,7 +13,7 @@ Hi, I'm c0sm0s 🌌
   <img align="left" alt="@c0sm0s's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://linktr.ee/hackriter">
+<a href="https://www.instagram.com/hackriter/">
   <img align="left" alt="@c0sm0s's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
 
